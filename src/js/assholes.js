@@ -266,65 +266,65 @@ const assholes = [
    {
       "district":"FL-11",
       "name":"Daniel Webster",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLGaetzMatt&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLWebsterDaniel&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-12",
       "name":"Gus Bilirakis",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLDunnNeal&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLBilirakisGusMichael&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-15",
       "name":"Dennis A. Ross",
-      "districtNum":"5",
+      "districtNum":"15",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLLawsonAl&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLRossDennisA&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-16",
       "name":"Vern Buchanan",
-      "districtNum":"6",
+      "districtNum":"16",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLDesantisRon&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLBuchananVern&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-17",
       "name":"Tom Rooney",
-      "districtNum":"7",
+      "districtNum":"17",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLMicaJohnL&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLRooneyRooney&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-18",
       "name":"Brian Mast",
-      "districtNum":"8",
+      "districtNum":"18",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLPoseyBill&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLMastBrian&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-19",
       "name":"Francis Rooney",
-      "districtNum":"9",
+      "districtNum":"19",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLSotoDarren&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLRooneyFrancis&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-25",
       "name":"Mario Diaz-Balart",
-      "districtNum":"5",
+      "districtNum":"25",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLLawsonAl&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLDiazbalartMario&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"FL-26",
       "name":"Carlos Curbelo",
-      "districtNum":"6",
+      "districtNum":"26",
       "state":"FL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=FLDesantisRon&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=FLCurbeloCarlos&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"GA-1",
