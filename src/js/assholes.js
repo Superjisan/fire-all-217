@@ -128,77 +128,79 @@ const assholes = [
    {
       "district":"CA-10",
       "name":"Jeff Denham",
-      "districtNum":"0",
-      "state":"CA"
+      "districtNum":"10",
+      "state":"CA",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=CADenhamJeff&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-21",
       "name":"David Valadao",
-      "districtNum":"1",
+      "districtNum":"21",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CALamalfaDoug&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CAValadaoDavidG&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-22",
       "name":"Devin Nunes",
-      "districtNum":"2",
+      "districtNum":"22",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAHuffmanJared&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CANunesDevin&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-23",
       "name":"Kevin McCarthy",
-      "districtNum":"3",
+      "districtNum":"32",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAGaramendiJohn&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CAMccarthyKevin&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-25",
       "name":"Steve Knight",
-      "districtNum":"5",
+      "districtNum":"25",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAThompsonMike&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CAKnightSteve&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-39",
       "name":"Ed Royce",
-      "districtNum":"9",
+      "districtNum":"39",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAMcnerneyGeraldM&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CARoyceEdR&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-42",
       "name":"Ken Calvert",
-      "districtNum":"2",
+      "districtNum":"42",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAHuffmanJared&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CACalvertKen&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-45",
       "name":"Mimi Walters",
-      "districtNum":"5",
+      "districtNum":"45",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAThompsonMike&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CAWaltersMimi&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-48",
       "name":"Dana Rohrabacher",
-      "districtNum":"8",
+      "districtNum":"48",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CACookPaul&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CARohrabacherDana&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-49",
       "name":"Darrell Issa",
-      "districtNum":"9",
+      "districtNum":"49",
       "state":"CA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=CAMcnerneyGeraldM&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=CAIssaDarrellE&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CA-50",
       "name":"Duncan Hunter",
-      "districtNum":"0",
-      "state":"CA"
+      "districtNum":"50",
+      "state":"CA",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=CAHunterDuncanD&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"CO-3",
