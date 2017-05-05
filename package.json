@@ -4,7 +4,8 @@
   "description": "an app to hold the 217 pricks who voted for trumpcare accountable",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/Superjisan/fire-all-217/issues"
   },
-  "homepage": "https://github.com/Superjisan/fire-all-217#readme"
+  "homepage": "https://github.com/Superjisan/fire-all-217#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "heroku-ping": "^0.1.0",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.11.0",
+    "promise": "^7.1.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
 }

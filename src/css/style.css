@@ -1,0 +1,38 @@
+.list-group{
+	height: 800px;
+	overflow-y: auto
+}
+
+.asshole_rep .panel{
+    background-color: #ff4d4d;
+    color: white;
+}
+
+.asshole_img {
+    height: 100px;
+}
+
+.asshole_thumbnail {
+    background-color: #f9ecec;
+}
+
+.asshole_name {
+    font-size: 4rem;
+    color: white;
+}
+
+body, .individual-prick-col {
+    background-color: #cce6ff
+}
+
+.legislator-state, .legislator-address, .legislator-district {
+    font-size: 2rem;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+body{
+    font-family: 'Enriqueta';
+}
