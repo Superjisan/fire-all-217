@@ -27,7 +27,7 @@ const getCongressPerson = event => {
 	let name = $(elem).attr('name');
 	let district =  $(elem).attr('district-num');
 	let state = $(elem).attr('state');
-	const url = `https://congress.api.sunlightfoundation.com/legislators?state=${req.params.state}&district=${req.params.district}&apiKey=jzthegreat@gmail.com`;
+	const url = `https://congress.api.sunlightfoundation.com/legislators?state=${state}&district=${district}&apiKey=jzthegreat@gmail.com`;
 	$.get(url, data => {
 		console.log(data);
 	});
