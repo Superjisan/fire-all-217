@@ -921,9 +921,9 @@ const assholes = [
    {
       "district":"NY-22",
       "name":"Claudia Tenney",
-      "districtNum":"2",
+      "districtNum":"22",
       "state":"NY",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NYKingPeterT&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NYTenneyCaludia&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"NY-23",

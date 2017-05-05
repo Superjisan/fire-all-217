@@ -56,7 +56,7 @@ const generateLegislatorsForCongress = (data, photoUrl) => {
             </a>
         </div>
         <div class="col-xs-12 col-sm-12">
-            <p class="text-center legislator-name">
+            <p class="text-center legislator-name asshole_name">
                 <a href="${data.website}" target="_blank" >
                     ${data.first_name} ${data.last_name}
                 </a>
