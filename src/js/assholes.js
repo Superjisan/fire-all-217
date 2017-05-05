@@ -436,44 +436,44 @@ const assholes = [
    {
       "district":"IL-12",
       "name":"Mike Bost",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILKellyRobin&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILBostMike&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IL-13",
       "name":"Rodney Davis",
-      "districtNum":"3",
+      "districtNum":"13",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILLipinskiDanielWilliam&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILDavisRodney&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IL-14",
       "name":"Randy Hultgren",
-      "districtNum":"4",
+      "districtNum":"14",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILGutierrezLuisV&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILHultgrenRandall&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IL-15",
       "name":"John Shimkus",
-      "districtNum":"5",
+      "districtNum":"15",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILQuigleyMike&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILShimkusJohnM&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IL-16",
       "name":"Adam Kinzinger",
-      "districtNum":"6",
+      "districtNum":"16",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILRoskamPeter&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILKinzingerAdam&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IL-18",
       "name":"Darin M. LaHood",
-      "districtNum":"8",
+      "districtNum":"18",
       "state":"IL",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=ILKrishnamoorthiRaja&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=ILLahoodDarin&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IN-2",
@@ -681,15 +681,16 @@ const assholes = [
    {
       "district":"MI-10",
       "name":"Paul Mitchell",
-      "districtNum":"0",
-      "state":"MI"
+      "districtNum":"10",
+      "state":"MI",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=MIMitchellPaul&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"MI-11",
       "name":"Dave Trott",
       "districtNum":"1",
       "state":"MI",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=MIBergmanJack&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=MITrottDave&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"MN-2",
