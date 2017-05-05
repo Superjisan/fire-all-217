@@ -15,3 +15,15 @@ app.listen(PORT, () => {
     /* eslint-disable no-console */
     console.log(`Server started at ${PORT}`);
 });
+
+//ONLY do this on prod
+if (process.env.PORT) {
+    heroku.ping({
+        interval: 300000,     // milliseconds, defaults to 30 minutes
+        silent: false,       // logging (default: false)
+        apps: [{
+            name: 'fire-all-217', // heroku app name - required
+            secure: true      // requires https (defaults: false)
+        }]
+    });
+}
