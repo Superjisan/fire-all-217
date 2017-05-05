@@ -149,7 +149,7 @@ const assholes = [
    {
       "district":"CA-23",
       "name":"Kevin McCarthy",
-      "districtNum":"32",
+      "districtNum":"23",
       "state":"CA",
       "img_url":"http://vote-usa.org/Image.aspx?Id=CAMccarthyKevin&Col=Headshot100&Def=Headshot100"
    },
@@ -820,22 +820,23 @@ const assholes = [
    {
       "district":"NC-10",
       "name":"Patrick T. McHenry",
-      "districtNum":"0",
-      "state":"NC"
+      "districtNum":"10",
+      "state":"NC",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=NCMchenryPatrick&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"NC-11",
       "name":"Mark Meadows",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"NC",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NCButterfieldGkJr&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NCMeadowsMark&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"NC-13",
       "name":"Ted Budd",
-      "districtNum":"3",
+      "districtNum":"13",
       "state":"NC",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NCJonesWalterB&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NCBuddTed&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"ND-1",
@@ -875,12 +876,12 @@ const assholes = [
    {
       "district":"NJ-11",
       "name":"Rodney Frelinghuysen",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"NJ",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NJNorcrossDonaldW&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NJFrelinghuysenRodneyP&Col=Headshot100&Def=Headshot100"
    },
    {
-      "district":"NM2",
+      "district":"NM-2",
       "name":"Steve Pearce",
       "districtNum":"2",
       "state":"NM",
@@ -994,23 +995,23 @@ const assholes = [
    {
       "district":"OH-12",
       "name":"Pat Tiberi",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"OH",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=OHWenstrupBrad&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=OHTiberiPatrickJ&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"OH-15",
       "name":"Steve Stivers",
-      "districtNum":"5",
+      "districtNum":"15",
       "state":"OH",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=OHLattaRobertE&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=OHStiversSteve&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"OH-16",
       "name":"James B. Renacci",
-      "districtNum":"6",
+      "districtNum":"16",
       "state":"OH",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=OHJohnsonBill&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=OHRenacciJim&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"OK-1",
@@ -1085,22 +1086,23 @@ const assholes = [
    {
       "district":"PA-10",
       "name":"Tom Marino",
-      "districtNum":"0",
-      "state":"PA"
+      "districtNum":"10",
+      "state":"PA",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=PAMarinoThomasA&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"PA-11",
       "name":"Lou Barletta",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"PA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=PABradyRobertA&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=PABarlettaLou&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"PA-12",
       "name":"Keith Rothfus",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"PA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=PAEvansDwight&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=PARothfusKeith&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"PA-16",
