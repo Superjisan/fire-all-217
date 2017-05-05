@@ -1,0 +1,25 @@
+{
+  "name": "fire-all-217",
+  "version": "0.0.1",
+  "description": "an app to hold the 217 pricks who voted for trumpcare accountable",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superjisan/fire-all-217.git"
+  },
+  "keywords": [
+    "trumpcare",
+    "217",
+    "fireall217",
+    "suckerswhovotedfortrumpcare"
+  ],
+  "author": "Jisan Zaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Superjisan/fire-all-217/issues"
+  },
+  "homepage": "https://github.com/Superjisan/fire-all-217#readme"
+}
