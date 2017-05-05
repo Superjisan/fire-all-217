@@ -907,9 +907,9 @@ const assholes = [
    {
       "district":"NY-19",
       "name":"John J. Faso",
-      "districtNum":"9",
+      "districtNum":"19",
       "state":"NY",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NYClarkeYvetteD&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NYFasoJohnJ&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"NY-21",
@@ -928,16 +928,16 @@ const assholes = [
    {
       "district":"NY-23",
       "name":"Tom Reed",
-      "districtNum":"3",
+      "districtNum":"23",
       "state":"NY",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NYSuozziThomasR&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NYReedThomasWii&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"NY-27",
       "name":"Chris Collins",
-      "districtNum":"7",
+      "districtNum":"27",
       "state":"NY",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=NYVelazquezNydiaM&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=NYCollinsChris&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"OH-1",
@@ -1102,16 +1102,16 @@ const assholes = [
    {
       "district":"PA-16",
       "name":"Lloyd K. Smucker",
-      "districtNum":"6",
+      "districtNum":"16",
       "state":"PA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=PACostelloRyan&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=PASmuckerLloydK&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"PA-18",
       "name":"Tim Murphy",
-      "districtNum":"8",
+      "districtNum":"18",
       "state":"PA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=PAFitzpatrickBrian&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=PAMurphyTimF&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"SC-1",
@@ -1263,113 +1263,114 @@ const assholes = [
    {
       "district":"TX-10",
       "name":"Michael McCaul",
-      "districtNum":"0",
-      "state":"TX"
+      "districtNum":"10",
+      "state":"TX",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=TXMccaulMichaelT&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-11",
       "name":"K. Michael Conaway",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXGohmertLouie&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXConawayMike&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-12",
       "name":"Kay Granger",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXPoeTed&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXGrangerKay&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-13",
       "name":"Mac Thornberry",
-      "districtNum":"3",
+      "districtNum":"13",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXJohnsonSamA&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXThornberryMac&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-14",
       "name":"Randy Weber",
-      "districtNum":"4",
+      "districtNum":"14",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXRatcliffeJohn&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXWeberRandy&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-17",
       "name":"Bill Flores",
-      "districtNum":"7",
+      "districtNum":"17",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXCulbersonJohnAbney&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXFloresBill&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-19",
       "name":"Jodey Arrington",
-      "districtNum":"9",
+      "districtNum":"19",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXGreenAl&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXArringtonJodey&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-21",
       "name":"Lamar Smith",
-      "districtNum":"1",
+      "districtNum":"21",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXGohmertLouie&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXSmithLamarS&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-22",
       "name":"Pete Olson",
-      "districtNum":"2",
+      "districtNum":"22",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXPoeTed&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXOlsonPete&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-24",
       "name":"Kenny Marchant",
-      "districtNum":"4",
+      "districtNum":"24",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXRatcliffeJohn&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXMarchantKenny&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-25",
       "name":"Roger Williams",
-      "districtNum":"5",
+      "districtNum":"25",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXHensarlingJeb&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXWilliamsRoger&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-26",
       "name":"Michael C. Burgess",
-      "districtNum":"6",
+      "districtNum":"26",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXBartonJoe&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXBurgessMichaelC&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-27",
       "name":"Blake Farenthold",
-      "districtNum":"7",
+      "districtNum":"27",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXCulbersonJohnAbney&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXFarentholdRBlake&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-31",
       "name":"John Carter",
-      "districtNum":"1",
+      "districtNum":"31",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXGohmertLouie&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXCarterJohnR&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-32",
       "name":"Pete Sessions",
-      "districtNum":"2",
+      "districtNum":"32",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXPoeTed&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXSessionsPete&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"TX-36",
       "name":"Brian Babin",
-      "districtNum":"6",
+      "districtNum":"36",
       "state":"TX",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=TXBartonJoe&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=TXBabinBrian&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"UT-1",
