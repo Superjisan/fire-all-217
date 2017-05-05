@@ -89,7 +89,7 @@ const generateSocialMediaForCongress = data => {
 
 const generateAddressForCongress = data => {
     return `<p class="text-center legislator-address">
-        <strong>Address:</strong>
+        <strong>Send them some glitter at this address:</strong>
         ${data.office}, Washington DC, 20003
     </p>`;
 };
