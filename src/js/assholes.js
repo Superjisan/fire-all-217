@@ -365,30 +365,31 @@ const assholes = [
    },
    {
       "district":"GA-10",
-      "name":"Jody B. I did",
-      "districtNum":"0",
-      "state":"GA"
+      "name":"Jody B. Hice",
+      "districtNum":"10",
+      "state":"GA",
+      "img_url": "http://vote-usa.org/Image.aspx?Id=GAHiceJody&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"GA-11",
       "name":"Barry Loudermilk",
-      "districtNum":"1",
+      "districtNum":"11",
       "state":"GA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=GACarterBuddy&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=GALoudermilkBarry&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"GA-12",
       "name":"Rick W. Allen",
-      "districtNum":"2",
+      "districtNum":"12",
       "state":"GA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=GABishopSanfordDJr&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=GAAllenRickW&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"GA-14",
       "name":"Tom Graves",
-      "districtNum":"4",
+      "districtNum":"14",
       "state":"GA",
-      "img_url":"http://vote-usa.org/Image.aspx?Id=GAJohnsonHenryCJr&Col=Headshot100&Def=Headshot100"
+      "img_url":"http://vote-usa.org/Image.aspx?Id=GAGravesTom&Col=Headshot100&Def=Headshot100"
    },
    {
       "district":"IA-1",
